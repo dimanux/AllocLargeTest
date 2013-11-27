@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="AllocLargeTest" package="AllocLargeTest" version="1.0.0" company="dimanux" />
+	<app main="Main" file="AllocLargeTest" path="bin" />
+	<window background="#000000" fps="60" />
+	<window width="320" height="240" unless="mobile" />
+	<source path="src" />
+	<haxelib name="openfl" />
+</project>
